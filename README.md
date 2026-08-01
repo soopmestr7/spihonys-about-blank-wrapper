@@ -5,6 +5,8 @@ in the latest release version we made it have some hardcoded "bookmarks" that ar
 
 (btw the language thing lied it's also CSS and JS inline)
 
+UPDATE 8/1/26: the font file it requested broke and so now this version fixes it. even though this is discontinued software doesn't mean i can't support it anymore.
+
 anyway here's the instructions
 
 # template
